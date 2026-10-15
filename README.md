@@ -52,7 +52,7 @@ We are currently developing the website to strengthen the company's online prese
 
 ## 📫 Contact
 
-- **Email:** alvaromartinezc22@gmail.com
+- **Email:** alvmarcam2@alu.edu.gva.es
 - **GitHub:** https://github.com/AxelTheFox
 
 ---
